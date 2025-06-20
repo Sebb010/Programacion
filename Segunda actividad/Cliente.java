@@ -17,5 +17,8 @@ public class Cliente{
 			return;
 		}
 		click.selfie();
+		click.jugar();
+		click.pelicula();
+		click.conectado();
 	}
 }
